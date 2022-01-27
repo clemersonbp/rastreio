@@ -1,0 +1,49 @@
+body {
+  background-color: #231c78;
+  align-items: center;
+}
+.img {
+  width: 45%;
+  margin-left: 130px;
+}
+.text {
+  color: aliceblue;
+  margin-left: 13rem;
+  font-family: 'Roboto Slab', serif;
+}
+.home {
+  justify-content: center;
+  margin-left: 15rem;
+}
+.entrar:hover {
+  color: aquamarine;
+  background-color: blueviolet;
+}
+.button {
+  margin-left: 400px;
+  text-decoration: none;
+  color: #231c78;
+  background-color: rgb(187, 182, 175);
+  height: 100px;
+  width: 150px;
+  border-style: outset;
+  font: bold 24px arial, 'Roboto Slab', serif;
+}
+.button:hover {
+  color: aquamarine;
+  background-color: blueviolet;
+}
+.button2 {
+  margin-left: 400px;
+  text-decoration: none;
+  color: #231c78;
+  background-color: rgb(187, 182, 175);
+  height: 100px;
+  width: 150px;
+  border-style: outset;
+  font: bold 24px arial, 'Roboto Slab', serif;
+}
+.button2:hover {
+  color: aquamarine;
+  background-color: blueviolet;
+}
