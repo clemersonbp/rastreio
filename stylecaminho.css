@@ -1,0 +1,50 @@
+body {
+    background-color: #231c78;
+  }
+  .header,
+  h1 {
+    color: white;
+    align-items: center;
+    margin-left: 150px;
+  }
+  .input1 {
+    margin-left: 450px;
+    color: rgb(rgb(107, 103, 103), green, blue);
+    margin-bottom: 40px;
+  }
+  .input2 {
+    margin-left: 450px;
+    color: rgb(rgb(107, 103, 103), green, blue);
+    margin-bottom: 40px;
+  }
+  .input3 {
+    margin-left: 450px;
+    color: rgb(rgb(107, 103, 103), green, blue);
+    margin-bottom: 40px;
+  }
+  .input4 {
+    margin-left: 450px;
+    color: rgb(rgb(107, 103, 103), green, blue);
+    margin-bottom: 40px;
+  }
+  .button {
+    margin: 60px;
+    margin-bottom: 350px;
+    margin-left: 150px;
+    text-decoration: none;
+    color: #231c78;
+    background-color: rgb(187, 182, 175);
+    height: 50px;
+    width: 120px;
+    border-style: outset;
+    font: bold 24px arial, 'Roboto Slab', serif;
+  }
+  .button:hover {
+    color: aquamarine;
+    background-color: blueviolet;
+  }
+  .laboratorio{
+      margin-left: 150px;
+
+  }
+  
